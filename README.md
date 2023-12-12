@@ -1,4 +1,4 @@
-# CRUD_cinema 8 вариант
+# 8 вариант Галушка
 Подключение к postgresql
 ![image](https://github.com/Miranaq/CRUD_cinema/assets/113391061/e4169278-835c-47a1-8220-f0c4457bd537)
 
@@ -13,7 +13,8 @@
 ![image](https://github.com/Miranaq/CRUD_cinema/assets/113391061/b2609f56-7c7f-4dd3-a2b5-984d66837a8d)
 
 Показ всех фильмов 
-![image](https://github.com/Miranaq/CRUD_cinema/assets/113391061/67cd54a5-732f-4800-9c68-b19ddf53aeff)
+![image](https://github.com/Miranaq/CRUD_cinema/assets/113391061/0f8e8ae1-618d-4ada-99e8-f13243814dc0)
+
 
 таблица 
-![image](https://github.com/Miranaq/CRUD_cinema/assets/113391061/93cefd95-48c2-4bfc-a91a-6ab33f575300)
+![image](https://github.com/Miranaq/CRUD_cinema/assets/113391061/c4025b55-7ab8-49a0-9da3-f976d1316c6d)
